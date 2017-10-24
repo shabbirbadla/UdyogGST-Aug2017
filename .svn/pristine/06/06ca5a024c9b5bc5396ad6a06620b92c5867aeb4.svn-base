@@ -1,0 +1,19 @@
+Program c:\...\desktop\svn projects\order zoomin\orderzoom - copy\runme.prg has the following errors:
+    Unknown APPVERCHK - Undefined
+
+Form c:\...\desktop\svn projects\order zoomin\orderzoom - copy\frmhelp.scx has the following errors:
+    Unknown BARSTAT - Undefined
+
+Form c:\...\desktop\svn projects\order zoomin\orderzoom - copy\frmorder.scx has the following errors:
+    Unknown BARSTAT - Undefined
+    Proc./Func. TOUEVOUCHER - Undefined
+    Application UECRVIEWER - Undefined
+    Proc./Func. UEMAILING - Undefined
+
+Form c:\...\desktop\svn projects\order zoomin\orderzoom - copy\frmfilter.scx has the following errors:
+    Unknown BARSTAT - Undefined
+    Unknown UEGETPOP - Undefined
+
+Form c:\...\desktop\svn projects\order zoomin\orderzoom - copy\frmrepoption.scx has the following errors:
+    Unknown BARSTAT - Undefined
+
